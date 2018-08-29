@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="1" ignored="0" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[测试用例开始]]>
+    </line>
+    <line>
+      <![CDATA[点击CRM按钮]]>
+    </line>
+    <line>
+      <![CDATA[输入用户账号]]>
+    </line>
+    <line>
+      <![CDATA[输入密码]]>
+    </line>
+    <line>
+      <![CDATA[睡眠3秒]]>
+    </line>
+    <line>
+      <![CDATA[点击登入按钮]]>
+    </line>
+    <line>
+      <![CDATA[线程等待三秒]]>
+    </line>
+    <line>
+      <![CDATA[获取页面title:]]>
+    </line>
+    <line>
+      <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103842635screenfile.png' alt='截图' width='500' height='300'></p>]]>
+    </line>
+    <line>
+      <![CDATA[断言title=]]>
+    </line>
+    <line>
+      <![CDATA[测试用例开始]]>
+    </line>
+    <line>
+      <![CDATA[打开谷歌浏览器]]>
+    </line>
+    <line>
+      <![CDATA[最大化浏览器]]>
+    </line>
+    <line>
+      <![CDATA[访问CRM测试环境地址]]>
+    </line>
+    <line>
+      <![CDATA[隐式等待3秒]]>
+    </line>
+    <line>
+      <![CDATA[点击CRM按钮]]>
+    </line>
+    <line>
+      <![CDATA[输入用户账号]]>
+    </line>
+    <line>
+      <![CDATA[输入密码]]>
+    </line>
+    <line>
+      <![CDATA[睡眠3秒]]>
+    </line>
+    <line>
+      <![CDATA[点击登入按钮]]>
+    </line>
+    <line>
+      <![CDATA[线程等待三秒]]>
+    </line>
+    <line>
+      <![CDATA[获取页面title:]]>
+    </line>
+    <line>
+      <![CDATA[点击右上角的用户名]]>
+    </line>
+    <line>
+      <![CDATA[点击注销账户]]>
+    </line>
+    <line>
+      <![CDATA[点击确定按钮]]>
+    </line>
+    <line>
+      <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103913660screenfile.png' alt='截图' width='500' height='300'></p>]]>
+    </line>
+    <line>
+      <![CDATA[关闭浏览器]]>
+    </line>
+    <line>
+      <![CDATA[测试用例开始]]>
+    </line>
+    <line>
+      <![CDATA[打开谷歌浏览器]]>
+    </line>
+    <line>
+      <![CDATA[最大化浏览器]]>
+    </line>
+    <line>
+      <![CDATA[访问CRM测试环境地址]]>
+    </line>
+    <line>
+      <![CDATA[隐式等待3秒]]>
+    </line>
+    <line>
+      <![CDATA[点击CRM按钮]]>
+    </line>
+    <line>
+      <![CDATA[输入用户账号]]>
+    </line>
+    <line>
+      <![CDATA[输入密码]]>
+    </line>
+    <line>
+      <![CDATA[睡眠3秒]]>
+    </line>
+    <line>
+      <![CDATA[点击登入按钮]]>
+    </line>
+    <line>
+      <![CDATA[线程等待三秒]]>
+    </line>
+    <line>
+      <![CDATA[获取页面title:]]>
+    </line>
+    <line>
+      <![CDATA[点击右上角的用户名]]>
+    </line>
+    <line>
+      <![CDATA[点击注销账户]]>
+    </line>
+    <line>
+      <![CDATA[点击确定按钮]]>
+    </line>
+    <line>
+      <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103984824screenfile.png' alt='截图' width='500' height='300'></p>]]>
+    </line>
+    <line>
+      <![CDATA[关闭浏览器]]>
+    </line>
+  </reporter-output>
+  <suite name="UI自动化测试" duration-ms="202670" started-at="2018-08-24T09:43:02Z" finished-at="2018-08-24T09:46:25Z">
+    <groups>
+    </groups>
+    <test name="自动化测试用例" duration-ms="202670" started-at="2018-08-24T09:43:02Z" finished-at="2018-08-24T09:46:25Z">
+      <class name="testCase.crm.login.TestLogout">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="setUp" is-config="true" duration-ms="54860" started-at="2018-08-24T09:44:03Z" finished-at="2018-08-24T09:44:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[测试用例开始]]>
+            </line>
+            <line>
+              <![CDATA[打开谷歌浏览器]]>
+            </line>
+            <line>
+              <![CDATA[最大化浏览器]]>
+            </line>
+            <line>
+              <![CDATA[访问CRM测试环境地址]]>
+            </line>
+            <line>
+              <![CDATA[隐式等待3秒]]>
+            </line>
+            <line>
+              <![CDATA[点击CRM按钮]]>
+            </line>
+            <line>
+              <![CDATA[输入用户账号]]>
+            </line>
+            <line>
+              <![CDATA[输入密码]]>
+            </line>
+            <line>
+              <![CDATA[睡眠3秒]]>
+            </line>
+            <line>
+              <![CDATA[点击登入按钮]]>
+            </line>
+            <line>
+              <![CDATA[线程等待三秒]]>
+            </line>
+            <line>
+              <![CDATA[获取页面title:]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testLogout()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="testLogout" duration-ms="15456" started-at="2018-08-24T09:44:58Z" description="测试注销账户" finished-at="2018-08-24T09:45:13Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [Login]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:442)
+at pageObject.TestBase.assertEquals(TestBase.java:673)
+at testCase.crm.login.TestLogout.testLogout(TestLogout.java:56)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[点击右上角的用户名]]>
+            </line>
+            <line>
+              <![CDATA[点击注销账户]]>
+            </line>
+            <line>
+              <![CDATA[点击确定按钮]]>
+            </line>
+            <line>
+              <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103913660screenfile.png' alt='截图' width='500' height='300'></p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="tearDown" is-config="true" duration-ms="702" started-at="2018-08-24T09:45:13Z" finished-at="2018-08-24T09:45:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[关闭浏览器]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="setUp" is-config="true" duration-ms="55136" started-at="2018-08-24T09:45:14Z" finished-at="2018-08-24T09:46:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[测试用例开始]]>
+            </line>
+            <line>
+              <![CDATA[打开谷歌浏览器]]>
+            </line>
+            <line>
+              <![CDATA[最大化浏览器]]>
+            </line>
+            <line>
+              <![CDATA[访问CRM测试环境地址]]>
+            </line>
+            <line>
+              <![CDATA[隐式等待3秒]]>
+            </line>
+            <line>
+              <![CDATA[点击CRM按钮]]>
+            </line>
+            <line>
+              <![CDATA[输入用户账号]]>
+            </line>
+            <line>
+              <![CDATA[输入密码]]>
+            </line>
+            <line>
+              <![CDATA[睡眠3秒]]>
+            </line>
+            <line>
+              <![CDATA[点击登入按钮]]>
+            </line>
+            <line>
+              <![CDATA[线程等待三秒]]>
+            </line>
+            <line>
+              <![CDATA[获取页面title:]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testLogout()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="testLogout" duration-ms="15322" started-at="2018-08-24T09:46:09Z" description="测试注销账户" finished-at="2018-08-24T09:46:24Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [Login]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:442)
+at pageObject.TestBase.assertEquals(TestBase.java:673)
+at testCase.crm.login.TestLogout.testLogout(TestLogout.java:56)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.retryFailed(Invoker.java:838)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1009)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[点击右上角的用户名]]>
+            </line>
+            <line>
+              <![CDATA[点击注销账户]]>
+            </line>
+            <line>
+              <![CDATA[点击确定按钮]]>
+            </line>
+            <line>
+              <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103984824screenfile.png' alt='截图' width='500' height='300'></p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.crm.login.TestLogout@3ffcd140]" name="tearDown" is-config="true" duration-ms="723" started-at="2018-08-24T09:46:24Z" finished-at="2018-08-24T09:46:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[关闭浏览器]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.crm.login.TestLogout -->
+      <class name="testCase.crm.login.TestLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testCase.crm.login.TestLogin@3e77a1ed]" name="setUp" is-config="true" duration-ms="4267" started-at="2018-08-24T09:43:02Z" finished-at="2018-08-24T09:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testCase.crm.login.TestLogin@3e77a1ed]" name="testLogin" duration-ms="55468" started-at="2018-08-24T09:43:07Z" description="测试登入" finished-at="2018-08-24T09:44:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[测试用例开始]]>
+            </line>
+            <line>
+              <![CDATA[点击CRM按钮]]>
+            </line>
+            <line>
+              <![CDATA[输入用户账号]]>
+            </line>
+            <line>
+              <![CDATA[输入密码]]>
+            </line>
+            <line>
+              <![CDATA[睡眠3秒]]>
+            </line>
+            <line>
+              <![CDATA[点击登入按钮]]>
+            </line>
+            <line>
+              <![CDATA[线程等待三秒]]>
+            </line>
+            <line>
+              <![CDATA[获取页面title:]]>
+            </line>
+            <line>
+              <![CDATA[<p>断言成功处截图:<img id='img' src='../screen/2018-08-24//1535103842635screenfile.png' alt='截图' width='500' height='300'></p>]]>
+            </line>
+            <line>
+              <![CDATA[断言title=]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCase.crm.login.TestLogin@3e77a1ed]" name="tearDown" is-config="true" duration-ms="703" started-at="2018-08-24T09:44:02Z" finished-at="2018-08-24T09:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.crm.login.TestLogin -->
+    </test> <!-- 自动化测试用例 -->
+  </suite> <!-- UI自动化测试 -->
+</testng-results>

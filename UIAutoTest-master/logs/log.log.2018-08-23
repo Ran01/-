@@ -1,0 +1,1108 @@
+[INFO] 2018-08-23 12:49:09,723 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:49:14,054 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:49:14,414 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:14,415 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:49:14,421 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:49:17,796 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:17,796 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:49:17,798 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:49:17,798 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:49:28,058 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:49:31,504 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:31,505 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:49:31,775 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:31,776 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:49:31,776 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:49:42,012 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:49:45,322 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:45,323 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:49:45,578 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:49:45,578 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:49:48,579 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:49:48,581 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:49:58,699 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:50:02,067 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:02,068 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:50:02,068 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:50:05,082 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:50:09,737 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:50:09,737 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:50:09,738 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:50:12,752 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:50:13,109 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:13,109 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:50:13,114 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:50:16,444 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:16,444 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:50:16,445 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:50:16,446 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:50:26,544 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:50:29,977 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:29,977 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:50:30,214 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:30,215 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:50:30,215 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:50:40,418 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:50:43,807 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:43,807 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:50:44,051 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:50:44,051 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:50:47,052 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:50:47,052 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:50:57,207 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:51:00,504 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:00,505 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:51:00,505 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:51:03,506 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:51:03,521 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 12:51:08,524 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 12:51:08,817 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 12:51:08,817 method:pageObject.TestBase.assertEquals(TestBase.java:676)
+断言成功：=
+[INFO] 2018-08-23 12:51:09,541 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:51:09,544 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:51:09,550 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:51:12,565 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:51:13,739 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 12:51:14,058 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:14,059 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:51:14,062 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:51:17,400 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:17,401 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:51:17,401 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:51:17,402 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:51:27,606 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:51:30,918 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:30,918 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:51:31,198 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:31,199 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:51:31,199 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:51:41,296 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:51:44,851 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:44,851 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:51:45,162 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:51:45,162 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:51:48,162 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:51:48,163 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:51:58,308 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:52:01,640 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:01,640 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:52:01,641 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:52:04,951 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:52:05,014 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 12:52:08,377 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:08,379 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 12:52:08,379 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:52:11,708 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:11,708 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 12:52:11,709 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:52:15,087 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:15,087 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 12:52:15,088 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:52:15,094 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 12:52:15,095 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 12:52:20,095 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 12:52:20,355 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 12:52:21,043 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:52:21,044 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:52:21,046 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:52:23,967 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:52:25,134 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 12:52:25,462 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:25,463 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:52:25,466 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:52:28,787 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:28,787 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:52:28,788 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:52:28,789 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:52:38,922 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:52:42,255 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:42,255 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:52:42,530 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:42,530 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:52:42,530 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:52:52,623 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:52:55,921 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:55,921 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:52:56,167 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:52:56,167 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:52:59,168 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:52:59,201 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:53:09,346 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:53:12,705 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:53:12,705 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:53:12,706 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:53:15,706 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:53:15,745 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 12:53:19,112 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:53:19,113 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 12:53:19,114 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:53:22,435 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:53:22,435 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 12:53:22,436 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:53:25,737 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:53:25,738 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 12:53:25,738 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:53:25,748 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 12:53:25,748 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 12:53:30,748 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 12:53:31,021 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 12:53:31,758 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:53:31,758 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:56:59,468 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:57:03,318 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:57:03,607 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:03,607 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:57:03,614 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:57:06,913 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:06,914 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:57:06,915 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:57:06,915 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:57:17,098 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:57:20,407 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:20,408 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:57:20,639 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:20,640 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:57:20,641 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:57:30,765 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:57:34,086 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:34,086 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:57:34,347 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:34,348 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:57:37,348 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:57:37,350 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:57:47,482 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:57:50,770 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:57:50,771 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:57:50,772 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:57:53,772 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:57:53,798 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 12:57:58,800 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 12:57:59,074 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 12:57:59,074 method:pageObject.TestBase.assertEquals(TestBase.java:676)
+断言成功：=
+[INFO] 2018-08-23 12:57:59,766 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:57:59,767 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:57:59,768 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:58:02,736 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:58:03,865 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 12:58:04,200 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:04,201 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:58:04,205 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:58:07,494 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:07,494 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:58:07,494 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:58:07,495 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:58:17,631 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:58:20,962 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:20,963 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:58:21,236 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:21,236 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:58:21,237 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:58:31,318 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:58:34,682 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:34,683 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:58:34,942 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:34,942 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:58:37,943 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:58:37,943 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:58:48,180 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:58:51,590 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:51,592 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 12:58:51,592 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:58:54,593 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:58:54,618 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 12:58:57,946 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:58:57,947 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 12:58:57,947 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:59:01,281 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:01,282 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 12:59:01,282 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:59:04,589 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:04,589 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 12:59:04,590 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:59:04,600 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 12:59:04,601 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 12:59:09,601 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 12:59:09,896 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 12:59:11,022 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 12:59:11,022 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 12:59:11,023 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 12:59:14,087 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 12:59:15,233 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 12:59:15,573 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:15,573 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 12:59:15,576 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 12:59:18,923 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:18,923 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 12:59:18,924 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 12:59:18,925 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:59:29,033 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:59:32,360 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:32,361 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 12:59:32,665 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:32,666 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:59:32,666 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 12:59:42,876 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 12:59:46,243 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:46,243 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 12:59:46,533 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 12:59:46,533 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 12:59:49,533 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 12:59:49,559 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 12:59:59,719 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:00:03,042 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:00:03,042 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:00:03,043 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:00:06,043 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:00:06,054 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:00:09,344 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:00:09,345 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 13:00:09,345 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:00:12,690 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:00:12,690 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 13:00:12,691 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:00:15,998 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:00:15,998 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 13:00:15,999 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:00:16,006 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 13:00:16,007 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 13:00:21,007 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:00:21,323 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:00:22,007 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:00:22,007 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:43:38,544 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:43:42,363 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:43:42,686 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:43:42,687 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:43:42,693 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:43:45,993 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:43:45,994 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:43:45,995 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:43:45,996 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:43:56,209 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:43:59,525 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:43:59,525 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:43:59,776 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:43:59,777 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:43:59,777 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:44:09,929 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:44:13,293 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:44:13,293 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 13:44:13,547 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:44:13,547 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:44:16,548 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:44:16,548 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 13:44:26,700 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:44:30,086 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:44:30,086 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:44:30,087 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:44:33,087 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:44:33,124 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:44:38,126 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:44:38,462 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:44:38,462 method:pageObject.TestBase.assertEquals(TestBase.java:676)
+断言成功：=
+[INFO] 2018-08-23 13:44:39,196 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:44:39,197 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:44:39,201 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:44:42,128 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:44:43,424 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 13:44:43,766 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:44:43,766 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:44:43,770 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:44:47,137 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:44:47,137 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:44:47,138 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:44:47,138 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:44:57,302 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:45:00,673 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:00,673 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:45:00,928 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:00,928 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:45:00,929 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:45:11,089 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:45:14,486 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:14,486 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 13:45:14,776 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:14,776 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:45:17,777 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:45:17,780 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 13:45:27,924 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:45:31,281 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:31,281 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:45:31,282 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:45:34,282 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:45:34,295 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:45:37,639 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:37,640 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 13:45:37,641 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:45:41,025 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:41,025 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 13:45:41,026 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:45:44,388 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:44,389 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 13:45:44,389 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:45:44,399 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 13:45:44,400 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 13:45:49,400 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:45:49,715 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:45:50,433 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:45:50,435 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:45:50,437 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:45:53,345 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:45:54,473 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 13:45:54,806 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:54,807 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:45:54,811 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:45:58,126 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:45:58,127 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:45:58,128 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:45:58,128 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:46:08,305 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:46:11,684 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:11,684 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:46:11,940 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:11,940 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:46:11,941 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:46:22,178 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:46:25,500 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:25,500 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 13:46:25,764 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:25,764 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:46:28,765 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:46:28,765 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 13:46:38,952 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:46:42,307 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:42,308 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:46:42,308 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:46:45,308 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:46:45,322 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:46:48,669 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:48,669 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 13:46:48,670 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:46:51,947 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:51,947 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 13:46:51,947 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:46:55,282 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:46:55,283 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 13:46:55,283 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:46:55,293 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 13:46:55,293 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 13:47:00,294 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:47:00,567 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:47:01,304 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:47:01,304 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:52:51,338 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:52:55,367 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:52:55,717 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:52:55,718 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:52:55,726 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:52:59,065 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:52:59,065 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:52:59,066 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:52:59,066 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:53:09,336 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:53:12,686 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:12,687 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:53:12,930 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:12,930 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:53:12,931 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:53:23,066 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:53:26,435 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:26,436 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 13:53:26,666 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:26,666 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:53:29,667 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:53:29,668 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 13:53:39,813 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:53:43,219 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:43,220 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:53:43,220 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:53:46,221 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:53:46,259 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:53:51,265 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:53:51,594 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:53:51,595 method:pageObject.TestBase.assertEquals(TestBase.java:676)
+断言成功：=
+[INFO] 2018-08-23 13:53:52,299 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:53:52,300 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:53:52,307 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:53:55,192 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:53:56,320 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 13:53:56,660 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:53:56,660 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:53:56,665 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:54:00,040 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:00,040 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:54:00,041 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:54:00,041 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:54:10,212 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:54:13,664 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:13,664 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:54:13,950 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:13,950 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:54:13,951 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:54:24,117 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:54:27,506 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:27,507 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 13:54:27,774 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:27,774 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:54:30,775 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:54:30,775 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 13:54:40,921 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:54:44,308 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:44,309 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 13:54:44,309 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:54:47,310 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 13:54:47,327 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 13:54:50,790 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:50,790 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="header"]/div[2]/div[2]/div/spa没有定位到该元素
+[ERROR] 2018-08-23 13:54:50,792 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:54:54,151 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:54,152 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/ul/li[2]没有定位到该元素
+[ERROR] 2018-08-23 13:54:54,152 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:54:57,529 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:54:57,529 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[2]/div/div[3]/button[2]/span没有定位到该元素
+[ERROR] 2018-08-23 13:54:57,530 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:54:57,540 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[ERROR] 2018-08-23 13:54:57,549 method:pageObject.TestBase.assertEquals(TestBase.java:680)
+断言失败：Login!=
+[INFO] 2018-08-23 13:55:02,550 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 13:55:02,892 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 13:55:03,646 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 13:55:03,647 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 13:55:03,650 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 13:55:06,554 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 13:55:07,889 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 13:55:08,202 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:55:08,202 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址xxx失败
+[INFO] 2018-08-23 13:55:08,206 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 13:55:11,605 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:55:11,606 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 13:55:11,607 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 13:55:11,608 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 13:55:21,692 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 13:55:25,093 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:55:25,094 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 13:55:25,378 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 13:55:25,379 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 13:55:25,379 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[INFO] 2018-08-23 14:23:02,307 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 14:23:06,273 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 14:23:06,622 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:06,623 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址www.baidu.xom失败
+[INFO] 2018-08-23 14:23:06,630 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 14:23:09,999 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:10,000 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 14:23:10,001 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 14:23:10,001 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:23:20,133 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:23:23,515 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:23,515 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 14:23:23,746 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:23,747 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 14:23:23,747 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:23:33,887 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:23:34,593 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 14:23:34,596 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 14:23:34,598 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 14:23:37,628 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 14:23:37,978 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:37,979 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址www.baidu.xom失败
+[INFO] 2018-08-23 14:23:37,982 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 14:23:41,332 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:41,332 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 14:23:41,334 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 14:23:41,334 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:23:51,521 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:23:54,860 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:54,861 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 14:23:55,134 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:23:55,134 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 14:23:55,135 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:24:05,280 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:24:08,540 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:08,541 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>password没有定位到该元素
+[INFO] 2018-08-23 14:24:08,791 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:08,791 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 14:24:11,792 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 14:24:11,792 method:pageObject.TestBase.webDriverWait(TestBase.java:581)
+显示等待开始...
+[ERROR] 2018-08-23 14:24:22,002 method:pageObject.TestBase.webDriverWait(TestBase.java:588)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:24:25,365 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:25,365 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>//*[@id="login-zhanghao"]/div[7]/button没有定位到该元素
+[ERROR] 2018-08-23 14:24:25,366 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 14:24:28,366 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：3秒
+[INFO] 2018-08-23 14:24:28,381 method:pageObject.TestBase.getCurrentPageTitle(TestBase.java:442)
+获取当前网页title:
+[INFO] 2018-08-23 14:24:33,383 method:pageObject.TestBase.threadSleep(TestBase.java:485)
+线程等待ing...时间：5秒
+[INFO] 2018-08-23 14:24:33,711 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[INFO] 2018-08-23 14:24:33,711 method:pageObject.TestBase.assertEquals(TestBase.java:676)
+断言成功：=
+[INFO] 2018-08-23 14:24:34,427 method:pageObject.TestBase.quit(TestBase.java:636)
+关闭浏览器，退出驱动
+[INFO] 2018-08-23 14:24:34,429 method:pageObject.TestBase.quit(TestBase.java:637)
+===================测试用例结束=======================
+[INFO] 2018-08-23 14:24:34,439 method:pageObject.TestBase.openChrome(TestBase.java:54)
+=============测试用例开始================
+[INFO] 2018-08-23 14:24:37,304 method:pageObject.TestBase.openChrome(TestBase.java:57)
+启动chrome浏览器
+[INFO] 2018-08-23 14:24:38,497 method:pageObject.TestBase.maxBrowser(TestBase.java:66)
+浏览器最大化
+[INFO] 2018-08-23 14:24:38,881 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:38,881 method:pageObject.TestBase.accessToWeb(TestBase.java:367)
+访问网址www.baidu.xom失败
+[INFO] 2018-08-23 14:24:38,888 method:pageObject.TestBase.implicitlyWait(TestBase.java:628)
+隐式等待ing3秒
+[INFO] 2018-08-23 14:24:42,237 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:42,237 method:pageObject.TestBase.findElement(TestBase.java:197)
+根据xpath=>/html/body/div[10]/div[2]/div[3]/ul/li[1]没有定位到该元素
+[ERROR] 2018-08-23 14:24:42,238 method:pageObject.TestBase.click(TestBase.java:407)
+元素=>null点击失败
+[INFO] 2018-08-23 14:24:42,238 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:24:52,407 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:24:55,780 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:55,781 method:pageObject.TestBase.findElement(TestBase.java:132)
+根据id=>username没有定位到该元素
+[INFO] 2018-08-23 14:24:56,039 method:pageObject.TestBase.screenAsFile(TestBase.java:390)
+在此处截图
+[ERROR] 2018-08-23 14:24:56,039 method:pageObject.TestBase.type(TestBase.java:90)
+控件(null)输入失败
+[INFO] 2018-08-23 14:24:56,040 method:pageObject.TestBase.webDriverWait(TestBase.java:521)
+显示等待开始...
+[ERROR] 2018-08-23 14:25:06,178 method:pageObject.TestBase.webDriverWait(TestBase.java:528)
+审查元素超时，未能找到该元素
+[INFO] 2018-08-23 14:25:08,783 method:pageObject.TestBase.findElement(TestBase.java:126)
+根据id找到定位到元素password
